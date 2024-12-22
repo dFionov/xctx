@@ -7,7 +7,7 @@ xctx is a Go package for managing context fields in a structured and efficient m
 To install xctx, use `go get`:
 
 ```sh
-go get github.com/yourusername/xctx
+go get github.com/dFionov/xctx
 ```
 
 ## Usage
